@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/GoogleAPI-App/static/js/main.90b4ca60.js",
+    "main.js": "/GoogleAPI-App/static/js/main.04db2a55.js",
     "index.html": "/GoogleAPI-App/index.html",
-    "main.90b4ca60.js.map": "/GoogleAPI-App/static/js/main.90b4ca60.js.map"
+    "main.04db2a55.js.map": "/GoogleAPI-App/static/js/main.04db2a55.js.map"
   },
   "entrypoints": [
-    "static/js/main.90b4ca60.js"
+    "static/js/main.04db2a55.js"
   ]
 }
