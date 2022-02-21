@@ -6132,6 +6132,11 @@
   "resolved" "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.2.4.tgz"
   "version" "1.2.4"
 
+"load-script@^1.0.0":
+  "integrity" "sha1-BJGTngvuVkPuSUp+PaPSuscMbKQ="
+  "resolved" "https://registry.npmjs.org/load-script/-/load-script-1.0.0.tgz"
+  "version" "1.0.0"
+
 "loader-runner@^4.2.0":
   "integrity" "sha512-92+huvxMvYlMzMt0iIOukcwYBFpkYJdpl2xsZ7LrlayO7E8SOv+JJUEK17B/dJIHAOLMfh2dZZ/Y18WgmGtYNw=="
   "resolved" "https://registry.npmjs.org/loader-runner/-/loader-runner-4.2.0.tgz"
@@ -7688,6 +7693,13 @@
   dependencies:
     "@types/react" "*"
     "prop-types" "^15.6.0"
+
+"react-google-picker@^0.1.0":
+  "integrity" "sha512-0y3TtinsdNwEx77Upsmh7Q4bXuBt/d/KntQDNxLOIf2v77UQQi0FBYAtAkjrkP28IOX7gfcXhdY5XXZRGHSODw=="
+  "resolved" "https://registry.npmjs.org/react-google-picker/-/react-google-picker-0.1.0.tgz"
+  "version" "0.1.0"
+  dependencies:
+    "load-script" "^1.0.0"
 
 "react-is@^16.13.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
