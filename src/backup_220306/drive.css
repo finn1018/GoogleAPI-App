@@ -1,0 +1,23 @@
+#driveBtn {
+    cursor: pointer;
+    background-color: #eee;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    
+}
+
+#modal {
+    text-align: center;
+    line-height: 40px;
+}
+
+#onBtn {
+    text-align: left;
+    line-height: 40px;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%);
+}

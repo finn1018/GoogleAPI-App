@@ -1,0 +1,16 @@
+#googleBtn {
+    position: absolute;
+    margin-right: 10%;
+    margin-top: 24px;
+    right: 0;
+}
+
+#googleBtn button {
+    border-style: none;
+    background-color: white;
+    text-decoration-line:underline;
+    text-underline-position: under;
+    text-decoration-thickness: 2px;
+    font-size: 14px;
+    cursor: pointer;
+}

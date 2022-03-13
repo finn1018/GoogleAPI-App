@@ -1,0 +1,13 @@
+
+
+#pagename {
+    FONT-SIZE: 30PX;
+    LETTER-SPACING: 10PX;
+    FONT-WEIGHT: 200;
+    CURSOR: POINTER;
+}
+
+a:link { color: black; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: black; text-decoration: none;}
+

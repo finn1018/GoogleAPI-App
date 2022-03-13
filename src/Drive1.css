@@ -1,0 +1,23 @@
+#drive1_box{
+    font-size: 13px;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background: black;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#drive1_box:hover {
+	opacity: 80%;
+}
+
+.activeform {
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+
