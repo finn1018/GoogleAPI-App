@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/GoogleAPI-App/static/css/main.8a164d0b.css",
-    "main.js": "/GoogleAPI-App/static/js/main.a309f736.js",
-    "static/media/loading.gif": "/GoogleAPI-App/static/media/loading.6d98a7d4e261625bb733.gif",
+    "main.css": "/GoogleAPI-App/static/css/main.672fb800.css",
+    "main.js": "/GoogleAPI-App/static/js/main.f4efb382.js",
     "index.html": "/GoogleAPI-App/index.html",
-    "main.8a164d0b.css.map": "/GoogleAPI-App/static/css/main.8a164d0b.css.map",
-    "main.a309f736.js.map": "/GoogleAPI-App/static/js/main.a309f736.js.map"
+    "main.672fb800.css.map": "/GoogleAPI-App/static/css/main.672fb800.css.map",
+    "main.f4efb382.js.map": "/GoogleAPI-App/static/js/main.f4efb382.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a164d0b.css",
-    "static/js/main.a309f736.js"
+    "static/css/main.672fb800.css",
+    "static/js/main.f4efb382.js"
   ]
 }
